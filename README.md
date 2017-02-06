@@ -11,3 +11,5 @@
 # feat-5 - Interactivity
 
 # feat-6 - Slack Integration
+
+# hotfix-1 - DB issue, needs backporting to 1.x
