@@ -4,4 +4,4 @@
 
 # feat-2 - ORM
 
-# feat-3 - API - GET
+# feat-3 - API - GET,PUT, POST, DELETE
