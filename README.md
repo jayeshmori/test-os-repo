@@ -4,4 +4,4 @@
 
 # feat-2 - ORM
 
-# feat-3 - API
+# feat-3 - API - GET
