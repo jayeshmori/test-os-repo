@@ -1,4 +1,4 @@
-# test-os-repo v 1.x
+# test-os-repo v 1.0-Snapshot
 
 # feat-1 - Database
 
